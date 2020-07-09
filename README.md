@@ -1,16 +1,24 @@
-### Hi there 👋
+#### Hi :lizard:
 
-<!--
-**dnnnvx/dnnnvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="triforce.webp" width="60px">
+  <br><br>
+  <samp>
+    <a href="https://www.linkedin.com/in/marco-de-stefani/" target="_blank">Linkedin</a> |
+    <a href="https://www.artstation.com/dnnnvx" target="_blank">Artstation</a> |
+    <a href="mailto:dotmarcodestefani@gmail.com" target="_blank">Mail Me</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+dnnnvx@github:~$ man dnnnvx
+  NAME
+       dnnnvx - a guy from his room
+
+  DESCRIPTION
+    A stupid developer and open source enthusiast who wants to learn things.
+    Marco loves (void) linux, UI/UX, Go, k8s, Flutter, Typescript;
+    He also loves drawing, videogames, music, books, poems, cats, melancholy and silence.
+    Currently working on something at specola.dev in his spare time.
+```
