@@ -17,8 +17,7 @@ dnnnvx@github:~$ man dnnnvx
        dnnnvx - a guy from his room
 
   DESCRIPTION
-       A stupid developer and open source enthusiast who wants to learn things.
-       Marco loves (void) linux, UI/UX, Go, k8s, Flutter, Typescript;
-       He also loves drawing, videogames, music, books, poems, cats, melancholy and silence.
-       Currently working on something at specola.dev in his spare time.
+       A developer and open source enthusiast who wants to learn things.
+       He loves linux, k8s, Go, Flutter, Typescript, UI/UX;
+       He also loves drawing, eating, videogames, music, books, poems, cats and silence.
 ```
